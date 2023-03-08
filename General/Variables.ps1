@@ -1,0 +1,7 @@
+$Env:clientId = ""
+$Env:clientSecret = ""
+$Env:tenantId = ""
+$Env:MyObjectId = ""
+$Env:SpnObjectId = ""
+$Env:domainName = ""
+$Env:subscriptionName = ""
